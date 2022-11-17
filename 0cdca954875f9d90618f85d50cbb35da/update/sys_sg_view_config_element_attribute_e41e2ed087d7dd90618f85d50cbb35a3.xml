@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>site_name_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 12:37:17</sys_created_on>
+        <sys_id>e41e2ed087d7dd90618f85d50cbb35a3</sys_id>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_e41e2ed087d7dd90618f85d50cbb35a3</sys_update_name>
+        <translated_value/>
+        <value>site.name</value>
+        <view_config_element display_value="site_name_element">e41e2ed087d7dd90618f85d50cbb35a0</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=e41e2ed087d7dd90618f85d50cbb35a3"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_location_item_stream">
+    <sys_sg_location_item_stream action="INSERT_OR_UPDATE">
+        <custom_map_config/>
+        <custom_map_id/>
+        <data_item display_value="Prices">7a1dee5087d7dd90618f85d50cbb35ef</data_item>
+        <interleaved_field>site.city</interleaved_field>
+        <is_custom_location>false</is_custom_location>
+        <latitude/>
+        <location>site</location>
+        <location_source>location</location_source>
+        <longitude/>
+        <name>Petrol Stations by Site</name>
+        <pin_color>#1D587F</pin_color>
+        <pin_text/>
+        <provider_key/>
+        <sys_class_name>sys_sg_location_item_stream</sys_class_name>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 12:33:05</sys_created_on>
+        <sys_id>cf1d2a9087d7dd90618f85d50cbb35e2</sys_id>
+        <sys_name>Petrol Stations by Site</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_update_name>sys_sg_location_item_stream_cf1d2a9087d7dd90618f85d50cbb35e2</sys_update_name>
+        <table>x_snc_qld_fuel_map_prices</table>
+    </sys_sg_location_item_stream>
+</record_update>

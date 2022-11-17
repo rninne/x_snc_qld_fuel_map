@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Price</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 12:33:05</sys_created_on>
+        <sys_id>c31d2a9087d7dd90618f85d50cbb35ec</sys_id>
+        <sys_name>Price</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_update_name>sys_sg_view_config_c31d2a9087d7dd90618f85d50cbb35ec</sys_update_name>
+        <table>x_snc_qld_fuel_map_prices</table>
+        <template display_value="Price">071d2a9087d7dd90618f85d50cbb35e9</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=c31d2a9087d7dd90618f85d50cbb35ec"/>
+</record_update>
