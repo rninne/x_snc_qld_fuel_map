@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e1d13d50879f9d90618f85d50cbb350e" label="Prices" max_length="40" name="x_snc_qld_fuel_map_prices" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="brand" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="diesel" label="Fuel Type" max_length="40" name="fuel_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Diesel" value="diesel"/>
+                <element inactive_on_update="false" label="e10" value="e10"/>
+                <element inactive_on_update="false" label="e85" value="e85"/>
+                <element inactive_on_update="false" label="LPG" value="lpg"/>
+                <element inactive_on_update="false" label="OPAL" value="opal"/>
+                <element inactive_on_update="false" label="Premium Diesel" value="premium_diesel"/>
+                <element inactive_on_update="false" label="PULP 95/96 RON" value="pulp_95_96_ron"/>
+                <element inactive_on_update="false" label="PULP 98 RON" value="pulp_98_ron"/>
+                <element inactive_on_update="false" label="Unleaded" value="unleaded"/>
+            </choice>
+        </element>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element label="Price" max_length="40" name="price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Site" max_length="40" name="site" reference="cmn_location" type="reference"/>
+        <element label="Site Id" max_length="40" name="site_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Transaction Date" max_length="40" name="transaction_date" type="glide_date_time"/>
+    </element>
+</database>
