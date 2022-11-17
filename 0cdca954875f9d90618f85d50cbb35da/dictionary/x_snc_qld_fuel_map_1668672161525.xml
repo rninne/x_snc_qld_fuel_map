@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e2526148797dd90618f85d50cbb357b" extends="sys_import_set_row" label="fuel.xlsx (Uploaded)" max_length="40" name="x_snc_qld_fuel_map_1668672161525" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fuel_Type" label="Fuel_Type" max_length="40" name="u_fuel_type" type="string"/>
+        <element attributes="import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="integer"/>
+        <element attributes="import_attribute_name=SiteId" label="SiteId" max_length="40" name="u_siteid" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sites_Address_Line_1" label="Sites_Address_Line_1" max_length="54" name="u_sites_address_line_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site_Brand" label="Site_Brand" max_length="40" name="u_site_brand" type="string"/>
+        <element attributes="import_attribute_name=Site_Latitude" label="Site_Latitude" max_length="40" name="u_site_latitude" type="float"/>
+        <element attributes="import_attribute_name=Site_Longitude" label="Site_Longitude" max_length="40" name="u_site_longitude" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site_Name" label="Site_Name" max_length="47" name="u_site_name" type="string"/>
+        <element attributes="import_attribute_name=Site_Post_Code" label="Site_Post_Code" max_length="40" name="u_site_post_code" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site_State" label="Site_State" max_length="40" name="u_site_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site_Suburb" label="Site_Suburb" max_length="40" name="u_site_suburb" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TransactionDateutc" label="TransactionDateutc" max_length="40" name="u_transactiondateutc" type="string"/>
+        <element attributes="import_attribute_name=_id" label="_id" max_length="40" name="u__id" type="integer"/>
+    </element>
+</database>
