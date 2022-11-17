@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Qld Fuel Map 1668672161525</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_qld_fuel_map_1668672161525</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">0fcae1c31b3111109576dc6fcc4bcb12</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 08:02:50</sys_created_on>
+        <sys_id>5c4f69d8875f9d90618f85d50cbb359e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Qld Fuel Map 1668672161525</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_update_name>sys_db_object_5c4f69d8875f9d90618f85d50cbb359e</sys_update_name>
+        <sys_updated_by>robert.ninness</sys_updated_by>
+        <sys_updated_on>2022-11-17 08:02:50</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</application>
+        <file_path/>
+        <instance_id>9385658fdb71d9d052cec59705961961</instance_id>
+        <instance_name>rmtokyofinsdemo</instance_name>
+        <name>sys_db_object_5c4f69d8875f9d90618f85d50cbb359e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Qld Fuel Map 1668672161525</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_qld_fuel_map_1668672161525</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">0fcae1c31b3111109576dc6fcc4bcb12</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>robert.ninness</sys_created_by><sys_created_on>2022-11-17 08:02:50</sys_created_on><sys_id>5c4f69d8875f9d90618f85d50cbb359e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Qld Fuel Map 1668672161525</sys_name><sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package><sys_policy/><sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope><sys_update_name>sys_db_object_5c4f69d8875f9d90618f85d50cbb359e</sys_update_name><sys_updated_by>robert.ninness</sys_updated_by><sys_updated_on>2022-11-17 08:02:50</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-915125388</payload_hash>
+        <record_name>Qld Fuel Map 1668672161525</record_name>
+        <reverted_from/>
+        <source>404e2d54875f9d90618f85d50cbb35ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 08:02:50</sys_created_on>
+        <sys_id>d44fa9d8875f9d90618f85d50cbb3579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184849cab890000001</sys_recorded_at>
+        <sys_updated_by>robert.ninness</sys_updated_by>
+        <sys_updated_on>2022-11-17 08:02:50</sys_updated_on>
+        <type>Table</type>
+        <update_guid>504fa9d8cc5f9d90e392b104d44ea479</update_guid>
+        <update_guid_history>504fa9d8cc5f9d90e392b104d44ea479:-915125388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>robert.ninness</sys_created_by>
+        <sys_created_on>2022-11-17 08:26:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>57ec48b25219411e8d1f3104153ea401</sys_id>
+        <sys_metadata>5c4f69d8875f9d90618f85d50cbb359e</sys_metadata>
+        <sys_name>Qld Fuel Map 1668672161525</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_scope_delete display_value="">52210c0bf0f745ba8d45b6dc019b1024</sys_scope_delete>
+        <sys_update_name>sys_db_object_5c4f69d8875f9d90618f85d50cbb359e</sys_update_name>
+        <sys_update_version display_value="sys_db_object_5c4f69d8875f9d90618f85d50cbb359e">d44fa9d8875f9d90618f85d50cbb3579</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

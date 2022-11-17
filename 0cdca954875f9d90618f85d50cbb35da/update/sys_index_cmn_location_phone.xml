@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>phone</col_name_string>
+        <index_col_name element="phone" name="cmn_location">046ae9031b3111109576dc6fcc4bcbaa</index_col_name>
+        <logical_table_name>cmn_location</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-17 11:14:07</sys_created_on>
+        <sys_id>de0bd2d01b9f99909576dc6fcc4bcb20</sys_id>
+        <sys_name>cmn_location</sys_name>
+        <sys_package display_value="QLD Fuel Map" source="x_snc_qld_fuel_map">0cdca954875f9d90618f85d50cbb35da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QLD Fuel Map">0cdca954875f9d90618f85d50cbb35da</sys_scope>
+        <sys_update_name>sys_index_cmn_location_phone</sys_update_name>
+        <table display_value="Location" name="cmn_location">0c6ae9031b3111109576dc6fcc4bcba2</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>
